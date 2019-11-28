@@ -1,5 +1,8 @@
 # Youtube-Tutorials
-All the code found in my YouTube tutorials are within this repo.
+All the code found in my YouTube tutorials are within this repo. 
+
+## Youtube URL
+https://www.youtube.com/channel/UCr9EdUy54zljH9WriQdQZ-g
 
 ## Episode Guide
 - **Episode 1** : Starting a new project and creating the *main method*.
