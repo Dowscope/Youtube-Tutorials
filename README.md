@@ -10,4 +10,5 @@ https://www.youtube.com/channel/UCr9EdUy54zljH9WriQdQZ-g
 - **Episode 3** : Creating the ROOM Class.
 - **Episode 4** : Creating a ROOM Onject in our main program.
 - **Episode 5** : Adding SDL to our project.  Graphics Library! YAY!
-- **Episode 6** : Initializing SDL in your project - Part 1
+- **Episode 6** : Initializing SDL in your project
+- **Episode 7** : SDL and Creating a window
